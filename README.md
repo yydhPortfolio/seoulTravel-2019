@@ -1,6 +1,6 @@
 # seoulTravel-2019
 HTML, CSS로 만든 seoulTravel
-기능반에서 처음으로 만들어본 프로젝트.
+<h2>기능반에서 처음으로 만들어본 프로젝트.</h2><br>
 HTML, CSS 만으로 제공된 사진과 똑같이 보이게 코드를 짜는 프로젝트
 
 # ScreenShots
